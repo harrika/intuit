@@ -1,0 +1,139 @@
+body {
+	 bbackground-color: #7c7c80;
+	 background-color: #ececf1;
+}
+
+.logo {
+    margin: auto auto;
+    display: block;
+    width: 50%;
+}
+
+.mheader {
+    margin: auto auto;
+    display: block;
+    width: 30%;
+    padding-left: 80px;
+}
+
+.field {
+    margin: auto auto;
+    display: block;
+    width: 50%;
+}
+
+//=============================
+*,
+*:before,
+*:after {
+   box-sizing: border-box;
+}
+form {
+  border: 1px solid #c6c7cc;
+  border-radius: 5px;
+  font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  overflow: hidden;
+  width: 400px;
+  background-color: white;
+}
+fieldset {
+  border: 0;
+  margin: 20;
+  padding: 50;
+}
+input {
+  border-radius: 5px;
+  font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+.account-info {
+  padding: 20px 50px 80px 50px;
+}
+.account-info label {
+  color: #395870;
+  display: block;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.account-info input {
+  background: #fff;
+  border: 1px solid #c6c7cc;
+   box-shadow: inset 0 1px 1px rgba(0, 0, 0, .1);
+  color: #636466;
+  padding: 6px;
+  margin-top: 6px;
+  width: 100%;
+}
+.account-action {
+  background: #f0f0f2;
+  border-top: 1px solid #c6c7cc;
+  padding: 20px;
+}
+.account-action .btn {
+  background: linear-gradient(#49708f, #293f50);
+  border: 0;
+  color: #fff;
+  cursor: pointer;
+  font-weight: bold;
+  float: left;
+  padding: 8px 16px;
+}
+.caccount-action label {
+  color: #7c7c80;
+  font-size: 12px;
+  float: left;
+  margin: 10px 0 0 20px;
+}
+
+
+.accountd {
+	margin: auto auto;
+    display: block;
+    width: 70%;
+    font-style: italic;
+    color: #bbb;
+    font-size: 12px;
+}
+
+.butt {  
+      background-color: #008CBA;
+       background-color: #2473c3;
+	    border: none;
+	    color: white;
+	    padding: 8px 90px;
+	    text-align: center;
+	    text-decoration: none;
+	    display: inline-block;
+	    font-size: 16px;
+}
+
+.foot {
+	margin: auto auto;
+    display: block;
+    width: 70%;
+    ccolor: #bbb;
+    font-size: 12px;
+    text-align: center;
+}
+
+.account {
+	color: #4C4C4C;
+    line-height: 1.1;
+    font-size: 24px;
+}
+
+#mo {
+	color: #0077c5;
+	font-size: 12px;
+}
+
+label {
+    font-weight: 400;
+    color: #404040;
+    font-size: 14px;
+    line-height: 25px;
+}
+
+.ico {
+	 padding-left: 40px;
+}
